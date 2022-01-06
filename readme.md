@@ -4,7 +4,7 @@
 
 ---
 
-## Folge #1
+## [Folge #1][youtube]
 
 - Bot-Status
 - Command-Handler
