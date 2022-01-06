@@ -1,6 +1,6 @@
-### Tutorial Bots
+# Tutorial Bots
 
-# Hier siehst du alle bis jetzt existierenden Folgen zu meinen Discord.js v13 Tutorials
+### Hier siehst du alle bis jetzt existierenden Folgen zu meinen Discord.js v13 Tutorials
 
 ---
 
