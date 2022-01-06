@@ -12,7 +12,7 @@
 - IQ-Befehl
 - Embeds
 
-Um den bot zu installieren, lade dir einfach die Dateien im ./#1 Ordner runter, erstelle eine config.json Datei, und schreib das rein:
+Um den bot zu installieren, lade dir einfach die Dateien im [Folge #1][https://github.com/RappyTV/tutorial/tree/master/Folge%20%231] Ordner runter, erstelle eine config.json Datei, und schreib das rein:
 ```json
 {
     "token": "DEIN_TOKEN",
