@@ -1,1 +1,5 @@
 node_modules
+package-lock.json
+push.bat
+.DS_Store
+config.json
