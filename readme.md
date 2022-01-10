@@ -23,6 +23,24 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 
 ---
 
+## [Folge #2][youtube]
+
+- Slash-Command-Handler
+- Slash-Command-Lösch-Befehl
+- Slash-Command-Options
+- Normale Befehle in Slash-Commands umwandeln
+
+Um den bot zu installieren, lade dir einfach die Dateien im [Folge #2](https://github.com/RappyTV/tutorial/tree/master/Folge%20%232) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+```json
+{
+    "token": "DEIN_TOKEN",
+    "prefix": "DEIN_PRÄFIX"
+}
+```
+Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
+
+---
+
 ### Soziale Netzwerke
 
 [<img align="left" alt="RappyTV | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
