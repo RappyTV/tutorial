@@ -12,7 +12,9 @@
 - IQ-Befehl
 - Embeds
 
-Um den bot zu installieren, lade dir einfach die Dateien im [Folge #1](https://github.com/RappyTV/tutorial/tree/master/Folge%20%231) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+Um den bot zu installieren befolge diese Anweisungen:
+
+1. Lade dir einfach die Dateien im [Folge #1](https://github.com/RappyTV/tutorial/tree/master/Folge%20%231) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
 ```json
 {
     "token": "DEIN_TOKEN",
@@ -20,6 +22,8 @@ Um den bot zu installieren, lade dir einfach die Dateien im [Folge #1](https://g
 }
 ```
 Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
+
+2. Führe in deinem Terminal (in diesem Ordner) den Befehl `npm i` aus, um die nötigen Librarys zu installieren.
 
 ---
 
@@ -31,7 +35,9 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 - Buttons auf Nachrichten entfernen
 - Buttons auf Nachrichten bearbeiten
 
-Um den bot zu installieren, lade dir einfach die Dateien im [Folge #2](https://github.com/RappyTV/tutorial/tree/master/Folge%20%232) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+Um den bot zu installieren befolge diese Anweisungen:
+
+1. Lade dir einfach die Dateien im [Folge #2](https://github.com/RappyTV/tutorial/tree/master/Folge%20%232) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
 ```json
 {
     "token": "DEIN_TOKEN",
@@ -39,6 +45,8 @@ Um den bot zu installieren, lade dir einfach die Dateien im [Folge #2](https://g
 }
 ```
 Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
+
+2. Führe in deinem Terminal (in diesem Ordner) den Befehl `npm i` aus, um die nötigen Librarys zu installieren.
 
 ---
 
@@ -49,7 +57,9 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 - Slash-Command-Options
 - Normale Befehle in Slash-Commands umwandeln
 
-Um den bot zu installieren, lade dir einfach die Dateien im [Folge #3](https://github.com/RappyTV/tutorial/tree/master/Folge%20%233) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+Um den bot zu installieren befolge diese Anweisungen:
+
+1. Lade dir einfach die Dateien im [Folge #3](https://github.com/RappyTV/tutorial/tree/master/Folge%20%233) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
 ```json
 {
     "token": "DEIN_TOKEN",
@@ -57,6 +67,8 @@ Um den bot zu installieren, lade dir einfach die Dateien im [Folge #3](https://g
 }
 ```
 Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
+
+2. Führe in deinem Terminal (in diesem Ordner) den Befehl `npm i` aus, um die nötigen Librarys zu installieren.
 
 ---
 

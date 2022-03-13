@@ -1,0 +1,17 @@
+const { Client, ButtonInteraction, Message } = require("discord.js");
+
+module.exports = {
+    id: `removeButtons`,
+
+    /**
+     * 
+     * @param {Client} bot 
+     * @param {ButtonInteraction} interaction 
+     * @param {Message} message 
+     * @param {String} prefix 
+     */
+
+    async execute(bot, interaction, message, prefix) {
+        message.edit({ embeds: message.embeds, components: [] });
+    }
+}
