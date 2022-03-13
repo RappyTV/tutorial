@@ -23,7 +23,7 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 
 ---
 
-## [Folge #2](https://youtu.be/4Zfi7j9L35Q)
+## [Folge #2][youtube]
 
 - Buttons senden
 - Ein Button-Interaktions Handler
