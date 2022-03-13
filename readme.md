@@ -23,14 +23,33 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 
 ---
 
-## [Folge #2][youtube]
+## [Folge #2](https://youtu.be/4Zfi7j9L35Q)
+
+- Buttons senden
+- Ein Button-Interaktions Handler
+- Buttons beantworten
+- Buttons auf Nachrichten entfernen
+- Buttons auf Nachrichten bearbeiten
+
+Um den bot zu installieren, lade dir einfach die Dateien im [Folge #2](https://github.com/RappyTV/tutorial/tree/master/Folge%20%232) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+```json
+{
+    "token": "DEIN_TOKEN",
+    "prefix": "DEIN_PRÄFIX"
+}
+```
+Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
+
+---
+
+## [Folge #3][youtube]
 
 - Slash-Command-Handler
 - Slash-Command-Lösch-Befehl
 - Slash-Command-Options
 - Normale Befehle in Slash-Commands umwandeln
 
-Um den bot zu installieren, lade dir einfach die Dateien im [Folge #2](https://github.com/RappyTV/tutorial/tree/master/Folge%20%232) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
+Um den bot zu installieren, lade dir einfach die Dateien im [Folge #3](https://github.com/RappyTV/tutorial/tree/master/Folge%20%233) Ordner runter, erstelle eine `config.json` Datei, und schreib das rein:
 ```json
 {
     "token": "DEIN_TOKEN",
