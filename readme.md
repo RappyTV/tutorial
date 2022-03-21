@@ -49,7 +49,7 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 
 ---
 
-### Coming Soon
+[Coming Soon]
 
 ## [Folge #3][youtube]
 
