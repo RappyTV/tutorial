@@ -49,9 +49,8 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 
 ---
 
-[Coming Soon]
-
 ## [Folge #3][youtube]
+[Coming Soon]
 
 - Slash-Command-Handler
 - Slash-Command-Lösch-Befehl
