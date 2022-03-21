@@ -33,7 +33,6 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 - Ein Button-Interaktions Handler
 - Buttons beantworten
 - Buttons auf Nachrichten entfernen
-- Buttons auf Nachrichten bearbeiten
 
 Um den bot zu installieren befolge diese Anweisungen:
 
@@ -49,6 +48,8 @@ Und gibst natürlich deinen Präfix an, und fügst deinen Token ein...
 2. Führe in deinem Terminal (in diesem Ordner) den Befehl `npm i` aus, um die nötigen Librarys zu installieren.
 
 ---
+
+### Coming Soon
 
 ## [Folge #3][youtube]
 
