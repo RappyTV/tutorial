@@ -1,3 +1,5 @@
+// All ignored files
+
 push.bat
 .DS_Store
 config.json
