@@ -9,7 +9,7 @@
   "author": "RappyTV#6969",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.0.0-dev.1640865766.780b7ed",
+    "discord.js": "^13.6.0",
     "random": "^3.0.6"
   }
 }
